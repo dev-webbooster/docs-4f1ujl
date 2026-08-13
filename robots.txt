@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-bm7rzg.date-me.pro/sitemap.xml
